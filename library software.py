@@ -20,13 +20,13 @@ books={
 }
 members={
     'ameen':{
-        'address':'201 safa residency nri colony nizamabad',
-        'phone number':"7993534416",
+        'address':'201',
+        'phone number':"123456789",
         'lent books':'theory of philosophy'
         },
     'muti':{
-        'address':'201 safa residency nri colony nizamabad',
-        'phone number':"8096730314",
+        'address':'201',
+        'phone number':"123456789",
         'lent books':'programming in c,ursule'
         }
     }
